@@ -1,3 +1,7 @@
 body {
-    background-image: ("http://vignette3.wikia.nocookie.net/ssb/images/9/95/Returning.png/revision/latest?cb=20150826072729")
+  background-image: url("http://vignette3.wikia.nocookie.net/ssb/images/d/d8/SSB64_roster.jpg/revision/latest?cb=20160224052200")
+}
+h3 {
+  background-color: blue;
+  color: white;
 }
